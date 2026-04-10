@@ -1143,7 +1143,6 @@ cat README.md| sed -E  's/^[#]{2,} (.*)/- [\1](#\L\1)/;-:a-s/(\(#[^-]+)-/\1-/g;-
 * [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
